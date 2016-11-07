@@ -17,3 +17,5 @@ for index,persons in heartandothers.iterrows():
                             f.write(string)
                             matches.append(i)
                             matchesb.append(j)
+                            
+                            
